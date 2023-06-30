@@ -23,12 +23,12 @@ Used for styling the web pages and adding visual enhancements.
 Used to implement interactive elements and enhance user experience.
 ### Bootstrap: 
 A front-end framework used to create responsive and mobile-friendly web pages.
-##Installation
+## Installation
 To run this project locally or make modifications, follow these steps:
 Clone the repository: git clone https://github.com/[username]/[repository-name].git
 Navigate to the project directory: cd [repository-name]
 Open the index.html file in your preferred web browser.
-##Usage
+## Usage
 The portfolio can be used to showcase your skills, projects, and achievements to potential clients, employers, or collaborators. It can be customized to suit your individual needs by modifying the content, styling, or structure of the web pages.
 To personalize the portfolio for your own use, consider the following steps:
 Replace the default content with your own information on each page.

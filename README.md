@@ -29,8 +29,11 @@ Utilized for enhanced typography and font styles throughout the website.
 Custom icons added to represent the website in browser tabs and bookmarks.
 ## Installation
 To run this project locally or make modifications, follow these steps:
+
 Clone the repository: git clone https://github.com/[username]/[repository-name].git
+
 Navigate to the project directory: cd [repository-name]
+
 Open the index.html file in your preferred web browser.
 ## Usage
 The portfolio can be used to showcase your skills, projects, and achievements to potential clients, employers, or collaborators. It can be customized to suit your individual needs by modifying the content, styling, or structure of the web pages.

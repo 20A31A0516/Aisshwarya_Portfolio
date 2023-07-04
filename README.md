@@ -41,7 +41,9 @@ To personalize the portfolio for your own use, consider the following steps:
 Replace the default content with your own information on each page.
 Modify the styles in the CSS files to match your preferred design.
 Add or remove sections/pages as needed.
+
 Google Fonts:
 To change the typography and font styles, navigate to the CSS files and modify the font families and properties associated with the relevant elements.
+
 Favicons:
 To use your own custom favicon, replace the default favicon files in the project directory with your own image files. Make sure to update the favicon declaration in the HTML file by replacing the "href" attribute value with the correct path to your favicon file.
